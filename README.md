@@ -24,3 +24,4 @@ pip install -r requirements.txt
 
 ## *Project Structure :*
 
+![Logo](Explainatory_factor_analysis.png)
